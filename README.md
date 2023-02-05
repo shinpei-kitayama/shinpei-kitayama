@@ -1,4 +1,4 @@
-### Hi there　I'm Shinpei Kitayama 👋
+Hi there, I'm Shinpei Kitayama 👋
 
 <!--
 **shinpei-kitayama/shinpei-kitayama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=shinpei-kitayama)
+[![Shinpei.Kitayama GitHub stats](https://github-readme-stats.vercel.app/api?username=shinpei-kitayama&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shinpei-kitayama&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
